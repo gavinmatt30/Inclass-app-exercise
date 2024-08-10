@@ -32,6 +32,6 @@ Run the script:
 ```sh
 python app/unemployment.py
 
-# equivalent:
+# equivalent: (we'll need this once we start importing code from one file to another)
 python -m app.unemployment
 ```

@@ -16,7 +16,7 @@ from plotly.express import line
 
 load_dotenv()
 
-API_KEY = os.getenv("ALPHAVANTAGE_API_KEY", default="demo")
+API_KEY = os.getenv("ALPHAVANTAGE_API_KEY")
 
 # UNEMPLOYMENT REPORT FUNCTIONALITY
 
